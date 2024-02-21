@@ -1,0 +1,3 @@
+C:/Users/jaked/CLionProjects/cpp-learning-deref-and-ptrs/cmake-build-debug/CMakeFiles/cpp_learning_deref_and_ptrs.dir
+C:/Users/jaked/CLionProjects/cpp-learning-deref-and-ptrs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jaked/CLionProjects/cpp-learning-deref-and-ptrs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
